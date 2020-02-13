@@ -54,10 +54,10 @@
             <div class="row text-center">
                 <div class="col-md-4"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube-nocookie.com/embed/4zPPviMj-NU?autoplay=1&amp;mute=1" width="300" height="200" style="margin-bottom: 37px;margin-top: -9px;"></iframe></div>
                 <div class="col" style="margin-left: 0;">
-                    <button class="btn btn-primary" type="button" style="margin-left: 0px;margin-right: 6px;background-color: rgb(242,209,19)">Excelente</button>
-                    <button class="btn btn-primary" type="button" style="background-color: rgb(32,107,252);">Regular</button>
+                    <button class="btn btn-primary" type="button" style="margin-left: 0px;margin-right: 6px;background-color: rgb(242,209,19)">Feliz</button>
+                    <button class="btn btn-primary" type="button" style="background-color: rgb(32,107,252);">Orgulloso</button>
                     <button class="btn btn-primary"
-                        type="button" style="margin-left: 6px;background-color: rgb(242,62,62);">Malo</button></div>
+                        type="button" style="margin-left: 6px;background-color: rgb(242,62,62);">Emocionado</button></div>
             </div>
         </div>
     </section>
