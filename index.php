@@ -38,7 +38,7 @@
             <div class="container" style="filter: blur(0px) contrast(122%);">
                 <div class="intro-text">
                     <div class="intro-lead-in"><span></span></div>
-                    <div class="intro-heading text-uppercase"><span class="text-capitalize" data-aos="fade" style="font-family: Montserrat, sans-serif;font-size: 43px;">¡Bienvenido al City Campus!</span></div><a class="btn btn-primary border-secondary pulse animated btn-xl text-uppercase js-scroll-trigger"
+                    <div class="intro-heading text-uppercase"><span class="text-capitalize" data-aos="fade" style="font-family: Montserrat, sans-serif;font-size: 30px;">¡Bienvenido al City Campus!</span></div><a class="btn btn-primary border-secondary pulse animated btn-xl text-uppercase js-scroll-trigger"
                         role="button" href="#services" style="background-color: #1FB2DE;">CUENTAME MÁS</a></div>
             </div>
         </header>
